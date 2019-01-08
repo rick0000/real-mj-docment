@@ -243,6 +243,9 @@
         ![](pai-images/ura-66-90-s.png)
         ![](pai-images/ura-66-90-s.png)
 
+    * その他の役知りたい方はこちらへ
+
+
 
 
 ## 練習ルールでお試し対局
@@ -272,14 +275,14 @@
 * 上がったときにドラを持っていると点数が高くなります。
 * あくまでもボーナスのため、ドラだけで上がることはできません。他に役を作る必要があります。
 * 資料  
-    * 【ドラ】とは  
-    https://majandofu.com/mahjong-glossary-dora
+    * ドラ
+    http://www2.odn.ne.jp/~cbm15900/html/n13.html
 
 ## 関連情報
 * 他いろんな入門情報  
     * 麻雀ルール入門！初心者が覚えるべき基本知識  
     https://majandofu.com/mahjong-introduction
 * もっとうまくなりたい人向け
-    * 麻雀上達編　～筋読みや牌効率を学ぼう～  
-    https://majandofu.com/level-up
+    * 初心者のための麻雀戦術・勝つための麻雀講座 
+    http://www2.odn.ne.jp/~cbm15900/html/k0.html
 
