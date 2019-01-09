@@ -244,13 +244,66 @@
         ![](pai-images/ura-66-90-s.png)
 
     * その他の役知りたい方はこちらへ
-
+        * 麻雀の役 一覧表 シンプル見やすい！
+        https://majandofu.com/mahjong-hands-simple
 
 
 
 ## 練習ルールでお試し対局
 手牌オープン＆4人全員が上がるまで終わらないルール  
 （通常は誰かが上がったらそのゲームは終わりだが、皆に上がりを経験してもらいたいため。）
+
+## 覚えておくと得する情報
+* 真ん中（3,4,5,6,7）の牌を大事にするとよい  
+真ん中（3,4,5,6,7）の牌は他の牌よりも面子が作りやすいです。  
+
+    * 5絡みで面子ができるパターン（4個）  
+        ![](pai-images/man3-66-90-s-emb.png)
+        ![](pai-images/man4-66-90-s-emb.png)
+        ![](pai-images/man5-66-90-s-emb.png)
+
+        ![](pai-images/man4-66-90-s-emb.png)
+        ![](pai-images/man5-66-90-s-emb.png)
+        ![](pai-images/man6-66-90-s-emb.png)
+
+        ![](pai-images/man5-66-90-s-emb.png)
+        ![](pai-images/man6-66-90-s-emb.png)
+        ![](pai-images/man7-66-90-s-emb.png)
+
+        ![](pai-images/man5-66-90-s-emb.png)
+        ![](pai-images/man5-66-90-s-emb.png)
+        ![](pai-images/man5-66-90-s-emb.png)
+
+    * 少し端っこの牌2で面子ができるパターン（3個）  
+        ![](pai-images/man1-66-90-s-emb.png)
+        ![](pai-images/man2-66-90-s-emb.png)
+        ![](pai-images/man3-66-90-s-emb.png)
+
+        ![](pai-images/man2-66-90-s-emb.png)
+        ![](pai-images/man3-66-90-s-emb.png)
+        ![](pai-images/man4-66-90-s-emb.png)
+
+        ![](pai-images/man2-66-90-s-emb.png)
+        ![](pai-images/man2-66-90-s-emb.png)
+        ![](pai-images/man2-66-90-s-emb.png)
+
+    * 端っこの牌1で面子ができるパターン（2個）  
+        ![](pai-images/man1-66-90-s-emb.png)
+        ![](pai-images/man2-66-90-s-emb.png)
+        ![](pai-images/man3-66-90-s-emb.png)
+
+        ![](pai-images/man1-66-90-s-emb.png)
+        ![](pai-images/man1-66-90-s-emb.png)
+        ![](pai-images/man1-66-90-s-emb.png)
+
+
+    * 字牌で面子ができるパターン（1個）  
+        ![](pai-images/ji1-66-90-s-emb.png)
+        ![](pai-images/ji1-66-90-s-emb.png)
+        ![](pai-images/ji1-66-90-s-emb.png)
+
+* 大事にする順  
+    （3,4,5,6,7）>（2,8）>（1,9）>（字牌）
 
 ## 終わり
 ---
@@ -266,7 +319,7 @@
     * 同じ牌を4枚揃えたときに「カン」と発生するとできます。
     他のプレーヤーが捨てた牌をもらってもよいですし、自分で4枚集めてカンしてもOKです。
     * ドラが増えます。  
-* 資料  
+* 補足資料  
     * 副露とは！ポン、チー、カンで鳴きを制し速攻役付テンパイ！  
     https://majandofu.com/mahjong-furo
 
@@ -274,8 +327,8 @@
 * ボーナス役です。
 * 上がったときにドラを持っていると点数が高くなります。
 * あくまでもボーナスのため、ドラだけで上がることはできません。他に役を作る必要があります。
-* 資料  
-    * ドラ
+* 補足資料  
+    * ドラ  
     http://www2.odn.ne.jp/~cbm15900/html/n13.html
 
 ## 関連情報
@@ -283,6 +336,6 @@
     * 麻雀ルール入門！初心者が覚えるべき基本知識  
     https://majandofu.com/mahjong-introduction
 * もっとうまくなりたい人向け
-    * 初心者のための麻雀戦術・勝つための麻雀講座 
+    * 初心者のための麻雀戦術・勝つための麻雀講座  
     http://www2.odn.ne.jp/~cbm15900/html/k0.html
 
